@@ -1,0 +1,7 @@
+D:\Sandra\Techneurons\ProgrammingTask\EmployeePayrollSystem\EmployeePayrollSystem\bin\Debug\EmployeePayrollSystem.exe.config
+D:\Sandra\Techneurons\ProgrammingTask\EmployeePayrollSystem\EmployeePayrollSystem\bin\Debug\EmployeePayrollSystem.exe
+D:\Sandra\Techneurons\ProgrammingTask\EmployeePayrollSystem\EmployeePayrollSystem\bin\Debug\EmployeePayrollSystem.pdb
+D:\Sandra\Techneurons\ProgrammingTask\EmployeePayrollSystem\EmployeePayrollSystem\obj\Debug\EmployeePayrollSystem.csproj.AssemblyReference.cache
+D:\Sandra\Techneurons\ProgrammingTask\EmployeePayrollSystem\EmployeePayrollSystem\obj\Debug\EmployeePayrollSystem.csproj.CoreCompileInputs.cache
+D:\Sandra\Techneurons\ProgrammingTask\EmployeePayrollSystem\EmployeePayrollSystem\obj\Debug\EmployeePayrollSystem.exe
+D:\Sandra\Techneurons\ProgrammingTask\EmployeePayrollSystem\EmployeePayrollSystem\obj\Debug\EmployeePayrollSystem.pdb
